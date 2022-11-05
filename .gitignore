@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/ONNX-Maui-App/Resources/Raw/model.onnx
+/ONNX-Maui-App/Resources/Raw/labels.txt
+/ONNX-Maui-App/Resources/Raw/_model.onnx
+/ONNX-Maui-App/Resources/Raw/_labels.txt
