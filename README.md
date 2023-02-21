@@ -7,7 +7,7 @@ In this example you find a .NET MAUI application that takes a picture, runs the 
 
 ### Presentation resources
 - [Slidedeck](https://speakerdeck.com/hnky/machine-learning-models-with-onnx-and-net)
-- [Video Session on .NET Conf 2022](https://www.dotnetconf.net/)
+- [Video Session on .NET Conf 2022](https://www.youtube.com/watch?v=h6HWP5jpA5s)
 
 ### Resources
 - [Dotnet Maui Documentation](https://learn.microsoft.com/en-us/dotnet/maui/get-started/first-app)
